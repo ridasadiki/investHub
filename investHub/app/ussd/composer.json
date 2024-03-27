@@ -1,0 +1,10 @@
+{
+    "require": {
+        "africastalking/africastalking": "^3.0"
+    },
+    
+    "config": {
+
+        "platform-check": false
+    }
+}
